@@ -1,0 +1,2 @@
+hello kittu
+b=10;
